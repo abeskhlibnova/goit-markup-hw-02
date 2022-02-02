@@ -1,0 +1,43 @@
+:root {
+    --txt-p: #757575;
+    --txt-h2-3: #212121;
+    --bgc-hero-footer: #2f303a;
+    --bgc-main: #ffffff;
+    --color-selection: #;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    height: 80px;
+    background-color: var(--bgc-main);
+}
+.nav {
+}
+.logo {
+}
+.logo-blue {
+    color: ;
+}
+.nav-list {
+    list-style: none;
+}
+
+.order-service {
+    height: 600px;
+    background-color: var(--bgc-hero-footer);
+}
+
+.our-team {
+    height: 648px;
+}
+
+.footer {
+    background-color: var(--bgc-hero-footer);
+}
