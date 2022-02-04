@@ -56,6 +56,9 @@ body {
     line-height: 16px;
     color: var(--title-txt-color);
 }
+.nav-list .link.current {
+    color: var(--accent-color);
+}
 .nav-list:hover,
 .nav-list:focus {
     color: var(--accent-color);
