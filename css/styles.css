@@ -12,7 +12,6 @@
 }
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     color: var(--primary-txt-color);
 }
 .link {
@@ -117,7 +116,7 @@ body {
 .team {
     background-color: var(--secondary-bg-color);
 }
-.item {
+.team-list-item {
     background-color: var(--primary-white-color);
 }
 .team-subtitle {
@@ -145,27 +144,18 @@ body {
     line-height: 1.19;
     color: var(--primary-white-color);
 }
-.footer-address {
+.address-list-link {
     font-style: normal;
-
     font-size: 14px;
     line-height: 171%;
     letter-spacing: 0.03em;
     color: var(--primary-white-color);
 }
-.footer-contacts {
-    font-style: normal;
-
-    font-size: 14px;
-    line-height: 171%;
-    letter-spacing: 0.03em;
-    color: var(--primary-white-color);
+.address-opacity {
     opacity: 60%;
 }
-.footer-address:hover,
-.footer-address:focus,
-.footer-contacts:hover,
-.footer-contacts:focus {
+.address-list-link:hover,
+.address-list-link:focus {
     color: var(--accent-color);
 }
 
