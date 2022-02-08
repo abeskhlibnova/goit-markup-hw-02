@@ -184,3 +184,10 @@ body {
     line-height: 1.87;
     letter-spacing: 0.03em;
 }
+/* ========DZ 3============== */
+.container {
+    width: 1200px;
+}
+.section {
+    padding: 94px 0;
+}
